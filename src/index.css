@@ -37,3 +37,8 @@ label:not(:last-child) {
   margin-right: 1rem;
 
 }
+
+
+.blare{
+  width: 0px;
+}
